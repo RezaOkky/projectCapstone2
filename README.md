@@ -64,3 +64,8 @@ Outlier
 
 https://public.tableau.com/views/YoutubeTrending_16731659714810/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
+
+### Link Dataset
+- CSV : https://www.kaggle.com/datasets/datasnaek/youtube-new?select=USvideos.csv
+-JSON : https://www.kaggle.com/datasets/datasnaek/youtube-new?select=US_category_id.json
+
