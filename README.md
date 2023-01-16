@@ -67,5 +67,5 @@ https://public.tableau.com/views/YoutubeTrending_16731659714810/Dashboard1?:lang
 
 ### Link Dataset
 - CSV : https://www.kaggle.com/datasets/datasnaek/youtube-new?select=USvideos.csv
--JSON : https://www.kaggle.com/datasets/datasnaek/youtube-new?select=US_category_id.json
+- JSON : https://www.kaggle.com/datasets/datasnaek/youtube-new?select=US_category_id.json
 
