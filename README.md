@@ -61,8 +61,7 @@ Outlier
 - Untuk video yang trending, jam posting/publish time berdasar analisa paling banyak dilakukan pada pukul 14-17 
 
 ### Link Tableau
-
-https://public.tableau.com/views/YoutubeTrending_16731659714810/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/YoutubeTrending_16731659714810/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 
 ### Link Dataset
